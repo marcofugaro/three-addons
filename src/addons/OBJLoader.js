@@ -30,7 +30,7 @@ THREE.OBJLoader.prototype = {
 
   parse: function (text) {
 
-    console.time('OBJLoader loading time:');
+    console.time('.obj loading time');
 
     var object, objects = [];
     var geometry, material;
@@ -372,7 +372,7 @@ THREE.OBJLoader.prototype = {
 
     }
 
-    console.timeEnd('OBJLoader loading time:');
+    console.timeEnd('.obj loading time');
 
     return container;
 
