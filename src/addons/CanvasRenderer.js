@@ -1115,4 +1115,4 @@ THREE.CanvasRenderer = function ( parameters ) {
 
 };
 
-export default THREE.SpriteCanvasMaterial;
+export default THREE.CanvasRenderer;

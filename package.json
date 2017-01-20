@@ -4,7 +4,7 @@
   "description": "A collection of Three.js addons",
   "main": "./build/three-addons.min.js",
   "scripts": {
-    "start": "webpack -w",
+    "start": "webpack -w -d",
     "build": "NODE_ENV=production webpack -p",
     "clean": "rm -rf build/"
   },

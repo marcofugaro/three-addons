@@ -416,6 +416,6 @@ THREE.MTLLoader.MaterialCreator.prototype = {
 
 };
 
-THREE.EventDispatcher.prototype.apply( THREE.MTLLoader.prototype );
+Object.assign(THREE.MTLLoader.prototype, THREE.EventDispatcher.prototype);
 
 export default THREE.MTLLoader;

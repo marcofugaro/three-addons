@@ -1,5 +1,7 @@
 # Three Addons
 
+[![Latest NPM release][https://img.shields.io/npm/v/three-addons.svg]][https://www.npmjs.com/package/three-addons]
+
 > A collection of Three.js addons.
 
 ## Installation
@@ -88,7 +90,7 @@ export default THREE.AddonName;
 Thanks to [npm-three-js](https://github.com/JordanDelcros/npm-three-js) for the inspiration of this project and the full list of addons.
 
 Here is the list of the addons present in this package: 
-AdaptiveToneMappingPass, BasicShader, BleachBypassShader, BlendShader, BloomPass, BokehPass, BokehShader, BokehShader2, BrightnessContrastShader, CanvasRenderer, ColorCorrectionShader, ColorifyShader, ConvolutionShader, CopyShader, DDSLoader, DOFMipMapShader, DigitalGlitch, DotScreenPass, DotScreenShader, EdgeShader, EdgeShader2, EffectComposer, FXAAShader, FilmPass, FilmShader, FocusShader, FresnelShader, GammaCorrectionShader, GlitchPass, HorizontalBlurShader, HorizontalTiltShiftShader, HueSaturationShader, JSONLoader, KaleidoShader, LuminosityShader, MTLLoader, MarchingCubes, MaskPass, MirrorShader, NormalMapShader, OBJLoader, OceanShaders, OrbitControls, ParallaxShader, Projector, RGBShiftShader, RenderPass, SSAOShader, SVGLoader, SavePass, SepiaShader, ShaderPass, TechnicolorShader, TexturePass, ToneMapShader, TriangleBlurShader, UnpackDepthRGBAShader, VerticalBlurShader, VerticalTiltShiftShader, VignetteShader.
+AdaptiveToneMappingPass, BasicShader, BleachBypassShader, BlendShader, BloomPass, BokehPass, BokehShader, BokehShader2, BrightnessContrastShader, ~~CanvasRenderer~~, ColorCorrectionShader, ColorifyShader, ConvolutionShader, CopyShader, DDSLoader, DOFMipMapShader, DigitalGlitch, DotScreenPass, DotScreenShader, EdgeShader, EdgeShader2, EffectComposer, FXAAShader, FilmPass, FilmShader, FocusShader, FresnelShader, GammaCorrectionShader, GlitchPass, HorizontalBlurShader, HorizontalTiltShiftShader, HueSaturationShader, KaleidoShader, LuminosityShader, MTLLoader, MarchingCubes, MaskPass, MirrorShader, NormalMapShader, OBJLoader, OceanShaders, OrbitControls, ParallaxShader, ~~Projector~~, RGBShiftShader, RenderPass, SSAOShader, SVGLoader, SavePass, SepiaShader, ShaderPass, ShaderToon, TechnicolorShader, TexturePass, ToneMapShader, TriangleBlurShader, UnpackDepthRGBAShader, VerticalBlurShader, VerticalTiltShiftShader, VignetteShader.
 
 ## TO TEST:
 - marching-cubes

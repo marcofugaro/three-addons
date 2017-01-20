@@ -922,4 +922,4 @@ THREE.Projector = function () {
 
 };
 
-export default THREE.RenderableObject;
+export default THREE.Projector;
