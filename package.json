@@ -1,6 +1,6 @@
 {
   "name": "three-addons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of Three.js addons",
   "main": "./build/three-addons.min.js",
   "scripts": {
