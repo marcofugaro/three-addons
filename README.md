@@ -1,6 +1,6 @@
 # Three Addons
 
-[![Latest NPM release][https://img.shields.io/npm/v/three-addons.svg]][https://www.npmjs.com/package/three-addons]
+[![Latest NPM release](https://img.shields.io/npm/v/three-addons.svg)](https://www.npmjs.com/package/three-addons)
 
 > A collection of Three.js addons.
 
