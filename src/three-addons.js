@@ -58,3 +58,4 @@ export UnpackDepthRGBAShader from './addons/UnpackDepthRGBAShader';
 export VerticalBlurShader from './addons/VerticalBlurShader';
 export VerticalTiltShiftShader from './addons/VerticalTiltShiftShader';
 export VignetteShader from './addons/VignetteShader';
+export SobelOperatorShader from './addons/SobelOperatorShader';
