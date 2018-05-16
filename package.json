@@ -23,7 +23,7 @@
   "author": "Marco Fugaro <marco.fugaro@gmail.com> (http://marcofugaro.it/)",
   "license": "MIT",
   "dependencies": {
-    "three": "^0.87.1"
+    "three": "^0.92.0"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
