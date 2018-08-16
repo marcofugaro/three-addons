@@ -1,3 +1,5 @@
+## NO LONGER MANTAINED - use [three-webpack-plugin](https://github.com/wildpeaks/package-three-webpack-plugin) (or [three-full](https://github.com/Itee/three-full) if you don't use webpack)
+
 # Three Addons
 
 [![Latest NPM release](https://img.shields.io/npm/v/three-addons.svg)](https://www.npmjs.com/package/three-addons)
